@@ -1,0 +1,15 @@
+
+#apt-get install libmysqlclient-dev
+
+oslo.config
+oslo.log
+oslo.middleware
+oslo.service
+oslo.concurrency
+werkzeug==0.9.6
+flask==0.10.1
+flask-restful==0.2.12
+flask-cors==1.9.0
+sqlalchemy
+flask-sqlalchemy
+mysql-python
